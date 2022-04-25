@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Xmonad
+Comment=Lightweight tiling window manager
+Exec=/home/ultramozg/.init_xsession.sh
+Type=XSession
+
